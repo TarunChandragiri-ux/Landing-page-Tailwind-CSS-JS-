@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a landing page created as a practice exercise using Tailwind CSS. This project was inspired by the work of Anuj Kumar Sharma.,  I made several modifications to enhance user experience & responsiveness.
+This project is a landing page created as a practice exercise using Tailwind CSS. This design was inspired by the work of Anuj Kumar Sharma.,  I made several modifications to enhance user experience & responsiveness.
 
 ## Features
 
